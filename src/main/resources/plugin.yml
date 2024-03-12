@@ -1,0 +1,8 @@
+name: Pixel Watch
+version: '${version}'
+main: fr.lucachinou.pixelwatch.main
+api-version: '1.20'
+load: STARTUP
+authors: [ lucachinou ]
+description: Open source Anti cheat
+website: https://github.com/Lucachinou/Pixel-Watch
